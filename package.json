@@ -1,15 +1,29 @@
 {
-  "name": "imagedither",
+  "name": "multidither",
   "version": "1.0.0",
-  "description": "",
+  "description": "dithers images and you can add your own one",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "jimp": "^0.16.1",
     "nearest-rgba": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Euro7Cent/imageDither.git"
+  },
+  "keywords": [
+    "dither",
+    "image",
+    "floydsteinberg"
+  ],
+  "author": "1euro7cent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1Euro7Cent/imageDither/issues"
+  },
+  "homepage": "https://github.com/1Euro7Cent/imageDither#readme"
 }
