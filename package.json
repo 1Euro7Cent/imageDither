@@ -1,6 +1,6 @@
 {
   "name": "multidither",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "dithers images and you can add your own one",
   "main": "index.js",
   "dependencies": {
