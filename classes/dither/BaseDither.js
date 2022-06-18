@@ -1,5 +1,5 @@
 const Jimp = require('jimp')
-const colorPalette = require('./../other/colorPalette')
+const colorPalette = require('./ColorPalette')
 
 module.exports = class BaseDither {
 
