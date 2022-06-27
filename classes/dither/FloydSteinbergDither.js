@@ -1,6 +1,6 @@
 const Jimp = require("jimp")
 const ColorPalette = require("../other/ColorPalette")
-const BaseDither = require("./baseDither")
+const BaseDither = require("./BaseDither")
 
 module.exports = class FloydSteinbergDither extends BaseDither {
     /**
